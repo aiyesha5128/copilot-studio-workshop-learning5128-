@@ -12,5 +12,6 @@ Get Copilot Studio and Demo environment ready.
 ## Evidence
 ![Day 1 setup](../evidence/day1_setup_screenshot.png)
 
+
 ## Notes / Issues
 - No issues encountered during setup.
