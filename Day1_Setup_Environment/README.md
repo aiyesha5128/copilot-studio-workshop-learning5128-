@@ -10,7 +10,6 @@ Get Copilot Studio and Demo environment ready.
 - Downloaded/unzipped Agent IAD package
 
 ## Evidence
-- Screenshot: ../evidence/day1_setup_screenshot.png
 ![Day 1 setup](../evidence/day1_setup_screenshot.png)
 
 ## Notes / Issues
