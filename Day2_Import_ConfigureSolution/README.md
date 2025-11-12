@@ -9,7 +9,7 @@ Import and verify the workshop solution.
 - Verified solution listed in Power Apps → Solutions
 
 ## Evidence
-- Screenshot: ../evidence/day2_import_screenshot.png
+- Screenshot: Day 2
 
 ![Day 2 import](../evidence/Day2-picture-1.png)
 
