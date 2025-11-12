@@ -11,7 +11,7 @@ Import and verify the workshop solution.
 ## Evidence
 - Screenshot: ../evidence/day2_import_screenshot.png
 
-(../evidence/Day2-picture-1.png
+![Day 2 import](../evidence/Day2-picture-1.png
 
 ![Day 2 import](../evidence/Day2-picture-2.png
 ## Notes / Issues
