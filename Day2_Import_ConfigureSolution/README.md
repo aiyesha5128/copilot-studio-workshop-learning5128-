@@ -14,5 +14,7 @@ Import and verify the workshop solution.
 ![Day 2 import](../evidence/Day2-picture-1.png)
 
 ![Day 2 import](../evidence/Day2-picture-2.png)
+
+
 ## Notes / Issues
 - No issues encountered during import. (or write details if you had any)
