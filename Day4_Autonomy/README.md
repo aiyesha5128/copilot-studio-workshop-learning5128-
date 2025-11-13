@@ -9,8 +9,9 @@ Make your agent autonomous.
 - Tested and published agent
 
 ## Evidence
-- Screenshot: ../evidence/day4_trigger_test.png
-![Day 4 trigger](../evidence/day4_trigger_test.png)
+- Screenshot: Day4
+![Day 4 trigger](../evidence/Day4-picture-1.png)
+![Day 4 trigger](../evidence/Day4-picture-2.png)
 
 ## Notes / Issues
 - (Any trigger or publish issues; if none, "No issues encountered")
